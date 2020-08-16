@@ -1,22 +1,22 @@
 <h2>Outline of cryptography</h2>
-<p><strong><a title="Cryptography" href="https://en.wikipedia.org/wiki/Cryptography">Cryptography</a></strong> (or&nbsp;<strong>cryptology</strong>) &ndash; practice and study of hiding&nbsp;<a title="Information" href="https://en.wikipedia.org/wiki/Information">information</a>. Modern cryptography intersects the disciplines of <a title="Mathematics" href="https://en.wikipedia.org/wiki/Mathematics">mathematics</a>, <a title="Computer science" href="https://en.wikipedia.org/wiki/Computer_science">computer science</a>, and <a title="Engineering" href="https://en.wikipedia.org/wiki/Engineering">engineering</a>. Applications of cryptography include <a title="Automated teller machine" href="https://en.wikipedia.org/wiki/Automated_teller_machine">ATM cards</a>, <a title="Password" href="https://en.wikipedia.org/wiki/Password">computer passwords</a>, and <a class="mw-redirect" title="Electronic commerce" href="https://en.wikipedia.org/wiki/Electronic_commerce">electronic commerce</a>.</p>
+<p><strong><a title="Cryptography" href="https://en.wikipedia.org/wiki/Cryptography">Cryptography</a></strong> (or <strong>cryptology</strong>) &ndash; practice and study of hiding <a title="Information" href="https://en.wikipedia.org/wiki/Information">information</a>. Modern cryptography intersects the disciplines of <a title="Mathematics" href="https://en.wikipedia.org/wiki/Mathematics">mathematics</a>, <a title="Computer science" href="https://en.wikipedia.org/wiki/Computer_science">computer science</a>, and <a title="Engineering" href="https://en.wikipedia.org/wiki/Engineering">engineering</a>. Applications of cryptography include <a title="Automated teller machine" href="https://en.wikipedia.org/wiki/Automated_teller_machine">ATM cards</a>, <a title="Password" href="https://en.wikipedia.org/wiki/Password">computer passwords</a>, and <a class="mw-redirect" title="Electronic commerce" href="https://en.wikipedia.org/wiki/Electronic_commerce">electronic commerce</a>.</p>
 <h2 id="mw-toc-heading">Contents</h2>
 <ul>
-<li class="toclevel-1 tocsection-1"><a href="https://en.wikipedia.org/wiki/Outline_of_cryptography#Essence_of_cryptography"><span class="toctext">Essence of cryptography</span></a></li>
-<li class="toclevel-1 tocsection-2"><a href="https://en.wikipedia.org/wiki/Outline_of_cryptography#Uses_of_cryptographic_techniques"><span class="toctext">Uses of cryptographic techniques</span></a></li>
-<li class="toclevel-1 tocsection-3"><a href="https://en.wikipedia.org/wiki/Outline_of_cryptography#Branches_of_cryptography"><span class="toctext">Branches of cryptography</span></a></li>
-<li class="toclevel-1 tocsection-4"><a href="https://en.wikipedia.org/wiki/Outline_of_cryptography#History_of_cryptography"><span class="toctext">History of cryptography</span></a></li>
-<li class="toclevel-1 tocsection-5"><a href="https://en.wikipedia.org/wiki/Outline_of_cryptography#Ciphers"><span class="toctext">Ciphers</span></a></li>
-<li class="toclevel-1 tocsection-14"><a href="https://en.wikipedia.org/wiki/Outline_of_cryptography#Keys"><span class="toctext">Keys</span></a></li>
-<li class="toclevel-1 tocsection-18"><a href="https://en.wikipedia.org/wiki/Outline_of_cryptography#Cryptographic_hash_functions"><span class="toctext">Cryptographic hash functions</span></a></li>
-<li class="toclevel-1 tocsection-19"><a href="https://en.wikipedia.org/wiki/Outline_of_cryptography#Cryptanalysis"><span class="toctext">Cryptanalysis</span></a></li>
-<li class="toclevel-1 tocsection-22"><a href="https://en.wikipedia.org/wiki/Outline_of_cryptography#Robustness_properties"><span class="toctext">Robustness properties</span></a></li>
-<li class="toclevel-1 tocsection-23"><a href="https://en.wikipedia.org/wiki/Outline_of_cryptography#Undeciphered_historical_codes_and_ciphers"><span class="toctext">Undeciphered historical codes and ciphers</span></a></li>
-<li class="toclevel-1 tocsection-24"><a href="https://en.wikipedia.org/wiki/Outline_of_cryptography#Organizations_and_selection_projects"><span class="toctext">Organizations and selection projects</span></a></li>
-<li class="toclevel-1 tocsection-28"><a href="https://en.wikipedia.org/wiki/Outline_of_cryptography#Influential_cryptographers"><span class="toctext">Influential cryptographers</span></a></li>
-<li class="toclevel-1 tocsection-29"><a href="https://en.wikipedia.org/wiki/Outline_of_cryptography#Legal_issues"><span class="toctext">Legal issues</span></a></li>
-<li class="toclevel-1 tocsection-30"><a href="https://en.wikipedia.org/wiki/Outline_of_cryptography#Academic_and_professional_publications"><span class="toctext">Academic and professional publications</span></a></li>
-<li class="toclevel-1 tocsection-31"><a href="https://en.wikipedia.org/wiki/Outline_of_cryptography#Allied_sciences"><span class="toctext">Allied sciences</span></a></li>
+<li class="toclevel-1 tocsection-1"><a href="#Essence_of_cryptography"><span class="toctext">Essence of cryptography</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Uses_of_cryptographic_techniques"><span class="toctext">Uses of cryptographic techniques</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Branches_of_cryptography"><span class="toctext">Branches of cryptography</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#History_of_cryptography"><span class="toctext">History of cryptography</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Ciphers"><span class="toctext">Ciphers</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#Keys"><span class="toctext">Keys</span></a></li>
+<li class="toclevel-1 tocsection-18"><a href="#Cryptographic_hash_functions"><span class="toctext">Cryptographic hash functions</span></a></li>
+<li class="toclevel-1 tocsection-19"><a href="#Cryptanalysis"><span class="toctext">Cryptanalysis</span></a></li>
+<li class="toclevel-1 tocsection-22"><a href="#Robustness_properties"><span class="toctext">Robustness properties</span></a></li>
+<li class="toclevel-1 tocsection-23"><a href="#Undeciphered_historical_codes_and_ciphers"><span class="toctext">Undeciphered historical codes and ciphers</span></a></li>
+<li class="toclevel-1 tocsection-24"><a href="#Organizations_and_selection_projects"><span class="toctext">Organizations and selection projects</span></a></li>
+<li class="toclevel-1 tocsection-28"><a href="#Influential_cryptographers"><span class="toctext">Influential cryptographers</span></a></li>
+<li class="toclevel-1 tocsection-29"><a href="#Legal_issues"><span class="toctext">Legal issues</span></a></li>
+<li class="toclevel-1 tocsection-30"><a href="#Academic_and_professional_publications"><span class="toctext">Academic and professional publications</span></a></li>
+<li class="toclevel-1 tocsection-31"><a href="#Allied_sciences"><span class="toctext">Allied sciences</span></a></li>
 </ul>
 <h2><span id="Essence_of_cryptography" class="mw-headline">Essence of cryptography</span></h2>
 <ul>
