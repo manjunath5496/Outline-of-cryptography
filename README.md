@@ -1,8 +1,6 @@
-<h2>Outline of cryptography </h2>
-<p><strong><a title="Cryptography" href="https://en.wikipedia.org/wiki/Cryptography">Cryptography</a></strong>&nbsp;(or&nbsp;<strong>cryptology</strong>) &ndash; practice and study of hiding&nbsp;<a title="Information" href="https://en.wikipedia.org/wiki/Information">information</a>. Modern cryptography intersects the disciplines of&nbsp;<a title="Mathematics" href="https://en.wikipedia.org/wiki/Mathematics">mathematics</a>,&nbsp;<a title="Computer science" href="https://en.wikipedia.org/wiki/Computer_science">computer science</a>, and&nbsp;<a title="Engineering" href="https://en.wikipedia.org/wiki/Engineering">engineering</a>. Applications of cryptography include&nbsp;<a title="Automated teller machine" href="https://en.wikipedia.org/wiki/Automated_teller_machine">ATM cards</a>,&nbsp;<a title="Password" href="https://en.wikipedia.org/wiki/Password">computer passwords</a>, and&nbsp;<a class="mw-redirect" title="Electronic commerce" href="https://en.wikipedia.org/wiki/Electronic_commerce">electronic commerce</a>.</p>
-</br>
+<h2>Outline of cryptography</h2>
+<p><strong><a title="Cryptography" href="https://en.wikipedia.org/wiki/Cryptography">Cryptography</a></strong> (or&nbsp;<strong>cryptology</strong>) &ndash; practice and study of hiding&nbsp;<a title="Information" href="https://en.wikipedia.org/wiki/Information">information</a>. Modern cryptography intersects the disciplines of <a title="Mathematics" href="https://en.wikipedia.org/wiki/Mathematics">mathematics</a>, <a title="Computer science" href="https://en.wikipedia.org/wiki/Computer_science">computer science</a>, and <a title="Engineering" href="https://en.wikipedia.org/wiki/Engineering">engineering</a>. Applications of cryptography include <a title="Automated teller machine" href="https://en.wikipedia.org/wiki/Automated_teller_machine">ATM cards</a>, <a title="Password" href="https://en.wikipedia.org/wiki/Password">computer passwords</a>, and <a class="mw-redirect" title="Electronic commerce" href="https://en.wikipedia.org/wiki/Electronic_commerce">electronic commerce</a>.</p>
 <h2 id="mw-toc-heading">Contents</h2>
-
 <ul>
 <li class="toclevel-1 tocsection-1"><a href="https://en.wikipedia.org/wiki/Outline_of_cryptography#Essence_of_cryptography"><span class="toctext">Essence of cryptography</span></a></li>
 <li class="toclevel-1 tocsection-2"><a href="https://en.wikipedia.org/wiki/Outline_of_cryptography#Uses_of_cryptographic_techniques"><span class="toctext">Uses of cryptographic techniques</span></a></li>
@@ -20,7 +18,6 @@
 <li class="toclevel-1 tocsection-30"><a href="https://en.wikipedia.org/wiki/Outline_of_cryptography#Academic_and_professional_publications"><span class="toctext">Academic and professional publications</span></a></li>
 <li class="toclevel-1 tocsection-31"><a href="https://en.wikipedia.org/wiki/Outline_of_cryptography#Allied_sciences"><span class="toctext">Allied sciences</span></a></li>
 </ul>
-</br>
 <h2><span id="Essence_of_cryptography" class="mw-headline">Essence of cryptography</span></h2>
 <ul>
 <li><a class="mw-redirect" title="Cryptographer" href="https://en.wikipedia.org/wiki/Cryptographer">Cryptographer</a></li>
@@ -314,7 +311,7 @@
 <li><a title="Password-authenticated key agreement" href="https://en.wikipedia.org/wiki/Password-authenticated_key_agreement">Password-authenticated key agreement</a></li>
 <li><a title="Passphrase" href="https://en.wikipedia.org/wiki/Passphrase">Passphrase</a></li>
 <li><a title="Salt (cryptography)" href="https://en.wikipedia.org/wiki/Salt_(cryptography)">Salt</a></li>
-<li><a title="Factorization" href="https://en.wikipedia.org/wiki/Factorization">Factorization</a><sup id="cite_ref-1" class="reference"><a href="https://en.wikipedia.org/wiki/Outline_of_cryptography#cite_note-1">[1]</a></sup></li>
+<li><a title="Factorization" href="https://en.wikipedia.org/wiki/Factorization">Factorization</a><sup id="cite_ref-1" class="reference"></sup></li>
 </ul>
 <h2><span id="Cryptographic_hash_functions" class="mw-headline"><a title="Cryptographic hash function" href="https://en.wikipedia.org/wiki/Cryptographic_hash_function">Cryptographic hash functions</a></span></h2>
 <ul>
