@@ -269,7 +269,7 @@
 <li><a title="XTR" href="https://en.wikipedia.org/wiki/XTR">XTR</a></li>
 </ul>
 <h2><span id="Keys" class="mw-headline">Keys</span></h2>
-<div class="hatnote navigation-not-searchable">Main article:&nbsp;<a title="Key (cryptography)" href="https://en.wikipedia.org/wiki/Key_(cryptography)">Key (cryptography)</a></div>
+<div class="hatnote navigation-not-searchable"> <a title="Key (cryptography)" href="https://en.wikipedia.org/wiki/Key_(cryptography)">Key (cryptography)</a></div>
 <h3><span id="Key_authentication" class="mw-headline"><a title="Key authentication" href="https://en.wikipedia.org/wiki/Key_authentication">Key authentication</a></span></h3>
 <ul>
 <li><a title="Public key infrastructure" href="https://en.wikipedia.org/wiki/Public_key_infrastructure">Public key infrastructure</a>
