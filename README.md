@@ -55,7 +55,7 @@
 <li><a title="Visual cryptography" href="https://en.wikipedia.org/wiki/Visual_cryptography">Visual cryptography</a></li>
 </ul>
 <h2><span id="History_of_cryptography" class="mw-headline">History of cryptography</span></h2>
-<div class="hatnote navigation-not-searchable">Main articles:&nbsp;<a title="History of cryptography" href="https://en.wikipedia.org/wiki/History_of_cryptography">History of cryptography</a>&nbsp;and&nbsp;<a title="Timeline of cryptography" href="https://en.wikipedia.org/wiki/Timeline_of_cryptography">Timeline of cryptography</a></div>
+<div class="hatnote navigation-not-searchable"> <a title="History of cryptography" href="https://en.wikipedia.org/wiki/History_of_cryptography">History of cryptography</a>&nbsp;and&nbsp;<a title="Timeline of cryptography" href="https://en.wikipedia.org/wiki/Timeline_of_cryptography">Timeline of cryptography</a></div>
 <ul>
 <li><a title="Japanese cryptology from the 1500s to Meiji" href="https://en.wikipedia.org/wiki/Japanese_cryptology_from_the_1500s_to_Meiji">Japanese cryptology from the 1500s to Meiji</a></li>
 <li><a title="World War I cryptography" href="https://en.wikipedia.org/wiki/World_War_I_cryptography">World War I cryptography</a></li>
